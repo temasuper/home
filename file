@@ -83,3 +83,4 @@ ${alignr}$font < ${upspeedgraph eth0 8,168 8b2132 fe8608} > --'    |    |
 ${alignr}$font < ${downspeed eth0} k/s > Down --'    |     
 ${alignr}$font < ${downspeedgraph eth0 8,168 8b2132 fe8608} > --'         |          
 
+
